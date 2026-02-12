@@ -76,5 +76,3 @@ Adjusted closing prices were used to account for stock splits and dividends.
 ## Files
 - `/notebook/` – Full Jupyter Notebook analysis
 - `/data/` – Raw historical price data
-- `/report/` – Academic report (PDF)
-
