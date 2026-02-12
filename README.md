@@ -67,12 +67,6 @@ Adjusted closing prices were used to account for stock splits and dividends.
 
 ---
 
-## Limitations & Future Work
-- Linear models struggle with regime changes and market shocks
-- Future work could explore ARIMA, LSTM, or regime-switching models
-
----
-
 ## Files
 - `/notebook/` – Full Jupyter Notebook analysis
 - `/data/` – Raw historical price data
